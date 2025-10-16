@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Clon</title>
+    <style>
+        :root {
+            --font: Arial, Helvetica, sans-serif;
+            --pribody: #84e7dd;
+            --body: #d5f8f5;
+        }
+
+        body {
+            background: var(--body);
+        }
+
+        * {
+            box-sizing: border-box;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        ul li {
+            display: inline-flex;
+            padding: 10px 20px;
+            font-family: var(--font);
+            font-size: 18px;
+            font-weight: bolder;
+
+        }
+
+        ul {
+            text-align: center;
+
+        }
+
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background-color: var(--pribody);
+            padding: 10px;
+        }
+
+        .container {
+            align-items: center;
+            display: flex;
+            margin-top: 80px;
+            margin-bottom: 80px;
+        }
+
+        .box {
+            margin: 10px;
+            padding: 20px;
+        }
+
+        .h1 {
+            margin-bottom: 25px;
+            font-size: 45px;
+        }
+
+        p {
+            font-family: var(--font);
+            line-height: 22px;
+            font-size: 18px;
+        }
+
+        button {
+            margin-top: 25px;
+            font-family: var(--font);
+            background: var(--pribody);
+            font-size: 18px;
+            padding: 8px 25px;
+            border-radius: 30px;
+        }
+
+        .content {
+            background: #ffffff;
+            justify-content: center;
+            width: 50vw;
+            text-align: center;
+            border: 2px solid black;
+            padding: 58px;
+            margin-left: 22vw;
+            margin-bottom: 50px;
+            border-radius: 10px 50px 10px 50px;
+        }
+
+        .footer {
+            font-family: var(--font);
+            text-align: center;
+            background: #000;
+            color: white;
+            padding: 20px;
+        }
+
+        .logo {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            border-radius: 100px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <main>
+        <img class="logo" height="90" width="90" src="logo.jpg" alt="">
+    </main>
+    <div class="header">
+        <nav>
+            <ul>
+                <li>Home</li>
+                <li>Contact</li>
+                <li>Services</li>
+                <li>FAQs</li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+        <div class="box box1">
+            <div>
+                <h1 class="h1">Hey!! How Are You</h1>
+            </div>
+            <div>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis dolore ut fugiat illo quod similique
+                    quisquam. Sequi facilis delectus odit, sed suscipit autem officia ducimus dicta maxime aliquam,
+                    <br><br>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis dolore ut fugiat illo quod
+                    similique
+                    quisquam. Sequi facilis delectus odit, sed suscipit autem officia ducimus dicta maxime aliquam,
+                    deleniti
+                    magni!
+                </p>
+            </div>
+            <div>
+                <button>About Us </button>
+            </div>
+        </div>
+
+        <div class="box box2">
+            <div>
+                <img height="500px" width="650" src="im.jpg" alt="">
+            </div>
+        </div>
+    </div>
+
+
+    <div class="content">
+        <h1>WellCome to Sigma Web Development</h1>
+    </div>
+
+    <div class="footer">
+        <footer>Copy Right | abc@gmail.com</footer>
+    </div>
+
+</body>
+
+</html>
