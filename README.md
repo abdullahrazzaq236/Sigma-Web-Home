@@ -1,3 +1,3 @@
-# Sigma-Web-Home
-![Uploading Home SS.PNG…]()
+![Home Page Screenshot](images/Home%20SS.PNG)
+
 
