@@ -1,3 +1,4 @@
 <b> Sigma Web Exercise - 05 <b> 
 
-<img width="1338" height="646" alt="Home-ss" src="https://github.com/user-attachments/assets/e4c5f8c8-5a54-4f93-a011-f772ed13d32e" />
+[<img width="1338" height="646" alt="Home-ss" src="https://github.com/user-attachments/assets/e4c5f8c8-5a54-4f93-a011-f772ed13d32e" />
+](https://private-user-images.githubusercontent.com/238549195/502255341-e4c5f8c8-5a54-4f93-a011-f772ed13d32e.PNG?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI2MTY0NDcsIm5iZiI6MTc2MjYxNjE0NywicGF0aCI6Ii8yMzg1NDkxOTUvNTAyMjU1MzQxLWU0YzVmOGM4LTVhNTQtNGY5My1hMDExLWY3NzJlZDEzZDMyZS5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEwOFQxNTM1NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNjY3YzMzN2MyOTRjZDQ2MGFhMDA1MTExZDljMjBmNzEzNTY1MTk1MTdiODQ4NWE5MGUzMGRjNWUxYmUzYmNlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OJe1yeqM8yaJAmIMfDjr1S0AhjeibeFhhFKh6inirDU)
